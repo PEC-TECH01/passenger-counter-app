@@ -2,6 +2,7 @@
 
 A simple and interactive **Passenger Counter App** built with HTML, CSS, and JavaScript. The application allows users to keep track of the number of passengers entering a location and save previous passenger counts.
 
+
 ## 🚀 Features
 
 * Increment the passenger count with a button click
@@ -10,6 +11,7 @@ A simple and interactive **Passenger Counter App** built with HTML, CSS, and Jav
 * Simple and responsive user interface
 * Interactive functionality powered by JavaScript
 * Clean and easy-to-use design
+
 
 ## 🛠️ Technologies Used
 
@@ -48,9 +50,8 @@ You can run the project locally by:
 No additional dependencies or installation are required.
 
 
-
-## 🔗 Live Demo
-
+## 🔗 Live Demo 👇
+https://pec-tech01.github.io/passenger-counter-app/
 
 
 ## 👨‍💻 Author
